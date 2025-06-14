@@ -11,7 +11,8 @@ export default function About() {
       <h2 className="about-title">About Us</h2>
       <p className="about-text">
         Paws and Claws is a family-owned small business built on love, trust,
-        and personalized care. We understand that pets are more than animals —
+        and personalized care. We offer pet boarding and daycare for cats and dogs24 hours a day, 7 days a week.
+        We understand that pets are more than animals —
         they’re family. That’s why we treat every dog and cat in our care as if
         they were our own. Whether for a day or an extended stay, your pet’s
         comfort, safety, and happiness are our top priorities.
